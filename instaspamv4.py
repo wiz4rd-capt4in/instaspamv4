@@ -141,7 +141,7 @@ def main():
     elif (int(report_choice) == 2):
         video_attack(proxies)
 
-if __name__ == "__main__":
+if __name__ == "politics_sxmeer._":
     print_logo()
     try:
         main()
